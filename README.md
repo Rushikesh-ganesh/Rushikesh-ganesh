@@ -6,9 +6,8 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning MERN 
-- 🤔 I’m looking for help with Data Structures Algorithm
+- 🔭 I’m currently working on nodejs + typescript + Express 
+- 🌱 I’m currently learning React 
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
