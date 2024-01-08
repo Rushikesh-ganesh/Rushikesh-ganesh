@@ -8,6 +8,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on nodejs + typescript + Express 
 - 🌱 I’m currently learning React 
+- 🌱 I’m Interested in RUST
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
