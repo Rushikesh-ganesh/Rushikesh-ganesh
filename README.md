@@ -4,8 +4,6 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RushikeshGane17) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/97rushikesh/)
 
-<a href="https://app.daily.dev/rushikeshganesh"><img src="https://api.daily.dev/devcards/bab6f0753b0b47a4beb71a10572eb76d.png?r=a89" width="400" alt="Rushikesh ganesh's Dev Card"/></a>
-
 ### Hi there 👋
 - 🔭 I’m currently working on nodejs + typescript + Express 
 - 🌱 I’m currently learning React 
